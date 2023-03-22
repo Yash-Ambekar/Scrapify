@@ -1,0 +1,9 @@
+{
+	"id": "ikdEHiesnxh8vB5",
+	"json": "{\"id\":\"ikdEHiesnxh8vB5\",\"url\":\"https://www.tickertape.in/screener/mutual-fund\",\"uniqueKey\":\"https://www.tickertape.in/screener/mutual-fund\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679494598059,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/screener/mutual-fund",
+	"url": "https://www.tickertape.in/screener/mutual-fund"
+}

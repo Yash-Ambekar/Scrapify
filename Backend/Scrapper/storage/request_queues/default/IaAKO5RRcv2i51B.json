@@ -1,0 +1,9 @@
+{
+	"id": "IaAKO5RRcv2i51B",
+	"json": "{\"id\":\"IaAKO5RRcv2i51B\",\"url\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/events?ref=stock-overview_overview-sections\",\"uniqueKey\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/events?ref=stock-overview_overview-sections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679494598051,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/stocks/reliance-industries-RELI/events?ref=stock-overview_overview-sections",
+	"url": "https://www.tickertape.in/stocks/reliance-industries-RELI/events?ref=stock-overview_overview-sections"
+}

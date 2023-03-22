@@ -1,0 +1,9 @@
+{
+	"id": "LomBscywz0M9mR5",
+	"json": "{\"id\":\"LomBscywz0M9mR5\",\"url\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/events?checklist=basic&type=dividends\",\"uniqueKey\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/events?checklist=basic&type=dividends\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679494597988,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/stocks/reliance-industries-RELI/events?checklist=basic&type=dividends",
+	"url": "https://www.tickertape.in/stocks/reliance-industries-RELI/events?checklist=basic&type=dividends"
+}

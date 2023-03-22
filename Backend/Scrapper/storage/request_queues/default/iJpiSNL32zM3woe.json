@@ -1,0 +1,9 @@
+{
+	"id": "iJpiSNL32zM3woe",
+	"json": "{\"id\":\"iJpiSNL32zM3woe\",\"url\":\"https://www.tickertape.in/screener/equity\",\"uniqueKey\":\"https://www.tickertape.in/screener/equity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679494598058,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/screener/equity",
+	"url": "https://www.tickertape.in/screener/equity"
+}

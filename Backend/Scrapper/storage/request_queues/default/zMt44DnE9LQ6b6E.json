@@ -1,0 +1,9 @@
+{
+	"id": "zMt44DnE9LQ6b6E",
+	"json": "{\"id\":\"zMt44DnE9LQ6b6E\",\"url\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/financials?checklist=basic&statement=income&view=normal&period=annual\",\"uniqueKey\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/financials?checklist=basic&period=annual&statement=income&view=normal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679494597973,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/stocks/reliance-industries-RELI/financials?checklist=basic&period=annual&statement=income&view=normal",
+	"url": "https://www.tickertape.in/stocks/reliance-industries-RELI/financials?checklist=basic&statement=income&view=normal&period=annual"
+}

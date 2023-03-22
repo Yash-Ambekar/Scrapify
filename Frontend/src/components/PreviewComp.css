@@ -1,0 +1,52 @@
+
+h1{
+    font-weight: 600;
+    padding: 0.5em;
+    overflow-x: hidden;
+    margin: 0 0.5em 0 0.5em;
+    background-color: blueviolet;
+    text-align: center;
+    color: azure;
+}
+
+input{
+    padding: 0.8em;
+    margin-left: 0.5em;
+    width: 50%;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
+
+button{
+    padding: 0.5em;
+    background-color: blueviolet;
+	color: inherit;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+	outline: none;
+    border-radius: 5px;
+    margin-left: 0.5em;
+    font-weight: bold;
+    font-size: small;
+}
+
+.inputButton{
+    display: flex;
+    justify-content: center;
+    padding: 0.5em;
+    text-decoration: none;
+    border: none;
+    margin:1em;
+    color: white;
+}
+
+.preview-div{
+    width: 100%;
+}
+
+#iframe{
+    width: 100%;
+}
