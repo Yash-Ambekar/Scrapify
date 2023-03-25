@@ -52,18 +52,22 @@ export async function scrapeData(link) {
   await crawler.run([link]);
 
   console.log("Crawler finished.");
-  // const store = await Actor.openKeyValueStore('default');
-  // const value = await store.getValue('price');
-  // console.log("The value of the key: ", value);
-  const dataset = await Actor.openDataset("default");
-  const value = await dataset.getData();
-  const security = value.items[0].security;
-  const price = value.items[0].price;
-  console.log("The Security name is: ", security);
-  console.log("The Security name is: ", price);
 
   await Actor.exit();
 
+  
+}
+
+export async function getData(){
+  await Actor.init();
+  const dataset = await Actor.openDataset("default");
+  const value = await dataset.getData();
+  console.log(value.items);
+  // const security = value.items[0].security;
+  // const price = value.items[0].price;
+  // console.log("The Security name is: ", security);
+  // console.log("The Price is: ", price);
+  await Actor.exit();
   // return ({security: security, price:price});
 }
 

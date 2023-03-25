@@ -1,9 +1,0 @@
-{
-	"id": "I00LEqE2LNUzpdZ",
-	"json": "{\"id\":\"I00LEqE2LNUzpdZ\",\"url\":\"https://www.tickertape.in/pricing\",\"uniqueKey\":\"https://www.tickertape.in/pricing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679494598089,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/pricing",
-	"url": "https://www.tickertape.in/pricing"
-}

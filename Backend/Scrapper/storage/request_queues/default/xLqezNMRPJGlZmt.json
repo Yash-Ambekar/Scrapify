@@ -1,9 +1,0 @@
-{
-	"id": "xLqezNMRPJGlZmt",
-	"json": "{\"id\":\"xLqezNMRPJGlZmt\",\"url\":\"https://www.tickertape.in/pricing?ref=stock-overview_pricing-banner\",\"uniqueKey\":\"https://www.tickertape.in/pricing?ref=stock-overview_pricing-banner\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679494598034,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/pricing?ref=stock-overview_pricing-banner",
-	"url": "https://www.tickertape.in/pricing?ref=stock-overview_pricing-banner"
-}

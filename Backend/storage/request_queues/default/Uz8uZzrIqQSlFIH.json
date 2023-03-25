@@ -1,0 +1,9 @@
+{
+	"id": "Uz8uZzrIqQSlFIH",
+	"json": "{\"id\":\"Uz8uZzrIqQSlFIH\",\"url\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/holdings\",\"uniqueKey\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/holdings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1679662462701,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/holdings",
+	"url": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/holdings"
+}

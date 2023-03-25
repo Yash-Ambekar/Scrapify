@@ -1,9 +1,0 @@
-{
-	"id": "4yhoeGizrSA32xe",
-	"json": "{\"id\":\"4yhoeGizrSA32xe\",\"url\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/peers?checklist=basic&table=valuation\",\"uniqueKey\":\"https://www.tickertape.in/stocks/reliance-industries-RELI/peers?checklist=basic&table=valuation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679494597976,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks/reliance-industries-RELI/peers?checklist=basic&table=valuation",
-	"url": "https://www.tickertape.in/stocks/reliance-industries-RELI/peers?checklist=basic&table=valuation"
-}
