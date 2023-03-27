@@ -1,6 +1,7 @@
+/*global chrome*/
+
 import React, { useState } from "react";
 // import puppeteer from "puppeteer";
-
 //CSS import
 import "./PreviewComp.css";
 
@@ -8,21 +9,33 @@ const PreviewComp = () => {
   const [input, setInput] = useState("");
   const [postresponse, setPostResponse] = useState("");
   const [getresponse, setGetResponse] = useState("");
-
+  const [HTML, setHTML] = useState("");
+  
   //Function to show preview
-  // async function preview(e) {
-  //   e.preventDefault();
-  //   const browser = await puppeteer.launch({ headless: false });
-  //   const page = await browser.newPage();
-  //   page.goto("https://www.google.com");
-  //   const aHandle = await page.evaluateHandle(() => document.body);
-  //   const resultHandle = await page.evaluateHandle(
-  //     (body) => body.innerHTML,
-  //     aHandle
-  //   );
-  //   console.log(await resultHandle.jsonValue());
-  //   await resultHandle.dispose();
-  // }
+  async function preview(e) {
+    e.preventDefault(); 
+    const response = await fetch(`http://localhost:5000/connect`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ url: input }),
+    });
+    if (!response.ok) {
+      const message = `An error has occurred: ${response.statusText}`;
+      window.alert(message);
+      return;
+    }
+
+    // const record = await response.json();
+    const text = await response.body.getReader().read()
+    // const blob = new Blob(text.value);
+    // const url = URL.createObjectURL(blob);
+    const decoder = new TextDecoder("utf-8")
+    const html = decoder.decode(text.value);
+    setHTML(html);
+    
+  }
 
   //Submit Function when clicked 'Send'
   async function onSubmit(e) {
@@ -81,7 +94,11 @@ const PreviewComp = () => {
             Get the Data
           </button>
         )}
+        <div className="preview">
+        <button onClick={preview}>Preview</button>
       </div>
+      </div>
+      
       <div>
         <h1>
           {getresponse && getresponse.default.security
@@ -94,6 +111,7 @@ const PreviewComp = () => {
             : postresponse}
         </h1>
       </div>
+      {HTML && <iframe srcDoc={HTML} width = "1024px" height="638px"></iframe>}
     </>
   );
 };

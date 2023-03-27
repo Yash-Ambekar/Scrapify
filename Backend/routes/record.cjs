@@ -28,5 +28,29 @@ recordRoutes.route("/getData").get(function(req, res){
     // setInterval(()=>sendData(), 12000);
 })
 
+recordRoutes.route("/connect").post(function(req, res){
+
+    const link = req.body.url;
+    async function helper(){
+    console.log(link, typeof(link))
+      const response = await fetch(`https://chrome.browserless.io/content?token=${process.env["API_TOKEN"]}`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache",
+      },
+      body: JSON.stringify({ url: `https://${link}` }),
+    });
+
+    // const record = await response.json();
+    const text = await response.text();
+    console.log(text)
+    res.send(text) 
+
+    }
+    helper();
+    
+    
+})
 
 module.exports = recordRoutes;

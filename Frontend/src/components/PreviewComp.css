@@ -22,7 +22,7 @@ input{
 button{
     padding: 0.5em;
     background-color: blueviolet;
-	color: inherit;
+	color: white;
 	border: none;
 	font: inherit;
 	cursor: pointer;
