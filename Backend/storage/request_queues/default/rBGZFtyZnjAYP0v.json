@@ -1,9 +1,0 @@
-{
-	"id": "rBGZFtyZnjAYP0v",
-	"json": "{\"id\":\"rBGZFtyZnjAYP0v\",\"url\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials#company-updates?ref=stock-overview_overview-sections\",\"uniqueKey\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462673,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials",
-	"url": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials#company-updates?ref=stock-overview_overview-sections"
-}

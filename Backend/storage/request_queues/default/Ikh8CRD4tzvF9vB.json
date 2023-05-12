@@ -1,9 +1,0 @@
-{
-	"id": "Ikh8CRD4tzvF9vB",
-	"json": "{\"id\":\"Ikh8CRD4tzvF9vB\",\"url\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials?checklist=basic&statement=income&view=normal&period=annual\",\"uniqueKey\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials?checklist=basic&period=annual&statement=income&view=normal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462652,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials?checklist=basic&period=annual&statement=income&view=normal",
-	"url": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/financials?checklist=basic&statement=income&view=normal&period=annual"
-}

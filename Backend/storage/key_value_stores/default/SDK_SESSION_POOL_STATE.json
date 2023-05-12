@@ -3,7 +3,7 @@
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_o6ZaHtIZhE",
+      "id": "session_h6cE9hep5a",
       "cookieJar": {
         "version": "tough-cookie@4.1.2",
         "storeType": "MemoryCookieStore",
@@ -16,14 +16,14 @@
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2023-03-24T13:44:15.299Z",
-      "createdAt": "2023-03-24T12:54:15.299Z",
+      "expiresAt": "2023-04-01T10:43:26.099Z",
+      "createdAt": "2023-04-01T09:53:26.099Z",
       "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_kWzQ6jfpdP",
+      "id": "session_Fop6b5btQJ",
       "cookieJar": {
         "version": "tough-cookie@4.1.2",
         "storeType": "MemoryCookieStore",
@@ -33,132 +33,69 @@
         "prefixSecurity": "silent",
         "cookies": [
           {
-            "key": "_gid",
-            "value": "GA1.2.2005462868.1679662461",
-            "expires": "2023-03-25T12:54:21.000Z",
-            "domain": "tickertape.in",
+            "key": "preferred_color_mode",
+            "value": "dark",
+            "expires": "2023-04-01T10:43:29.220Z",
+            "domain": "github.com",
             "path": "/",
+            "secure": true,
             "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.339Z",
-            "lastAccessed": "2023-03-24T12:54:22.339Z"
+            "creation": "2023-04-01T09:53:29.231Z",
+            "lastAccessed": "2023-04-01T09:53:29.231Z"
           },
           {
-            "key": "amplitude_id_d9d4ec74fab79cc7bb30a1737905372ctickertape.in",
-            "value": "eyJkZXZpY2VJZCI6IjVjY2NiY2ZmLTJjYjYtNDIxYi04MzczLTIzN2MwYmQxNGU2N1IiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY3OTY2MjQ2MTE4NCwibGFzdEV2ZW50VGltZSI6MTY3OTY2MjQ2MTE4NCwiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9",
-            "expires": "2024-04-27T12:54:21.187Z",
-            "domain": "tickertape.in",
+            "key": "logged_in",
+            "value": "no",
+            "expires": "2024-04-01T09:53:27.415Z",
+            "domain": "github.com",
             "path": "/",
+            "secure": true,
+            "httpOnly": true,
             "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.350Z",
-            "lastAccessed": "2023-03-24T12:54:22.350Z"
+            "creation": "2023-04-01T09:53:29.239Z",
+            "lastAccessed": "2023-04-01T09:53:29.239Z"
           },
           {
-            "key": "ajs_anonymous_id",
-            "value": "5cee97da-f376-4f79-be71-daf8c2681914",
-            "expires": "2024-03-23T12:54:20.000Z",
-            "domain": "tickertape.in",
+            "key": "tz",
+            "value": "Asia%2FCalcutta",
+            "expires": "2023-04-01T10:43:29.221Z",
+            "domain": "github.com",
             "path": "/",
+            "secure": true,
             "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.353Z",
-            "lastAccessed": "2023-03-24T12:54:22.353Z"
+            "creation": "2023-04-01T09:53:29.243Z",
+            "lastAccessed": "2023-04-01T09:53:29.243Z"
           },
           {
-            "key": "__gpi",
-            "value": "UID=00000bdfadb28388:T=1679662460:RT=1679662460:S=ALNI_MZ7A1C_vBki37Bdjz0ahRNJ2SUReg",
-            "expires": "2024-04-17T12:54:20.000Z",
-            "domain": "tickertape.in",
+            "key": "_octo",
+            "value": "GH1.1.170525512.1680342807",
+            "expires": "2024-04-01T09:53:27.414Z",
+            "domain": "github.com",
             "path": "/",
+            "secure": true,
             "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.355Z",
-            "lastAccessed": "2023-03-24T12:54:22.355Z"
+            "creation": "2023-04-01T09:53:29.248Z",
+            "lastAccessed": "2023-04-01T09:53:29.248Z"
           },
           {
-            "key": "ch-tt-tk",
-            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRJbiI6ZmFsc2UsImlhdCI6MTY3OTY2MjQ1OCwiZXhwIjoxNjc5NjY2MDU4fQ.m7J-dknKm21hoWo1KobweUGy272VXUoMD97yTIUMjKM",
-            "expires": "2023-03-24T13:54:19.000Z",
-            "domain": "tickertape.in",
+            "key": "_gh_sess",
+            "value": "TxjvpiN1J1uf8KTKXSxGRXZPc1C%2F%2BKRDKx9zZW0phs4lrfsM8zQy5PylyihJMKgCNsnRTM%2BcaNOhmOBkkYVXe7r5OzGVCFu0LVB6840nR%2FtEPZ%2FSZ7xMiRHXDFaJZW4MIWG6ePRn7VKLpEaqWgTnNep2niGYrPV%2Fu5be8ZhT688IUgD9xJ29S9kDLTS%2BZkkAIVBnIh7VQx2b20O8a3YeJ7ugZtEBN13OrMGh0xzXJ1Fzd4%2FwbIHu91%2BY0DKR62tAe%2B9SccKLT%2FOfB7Aeo5DBmA%3D%3D--YiIuieJBh6UnuQtN--nBsPkfbFy49fZRaHr%2BodqA%3D%3D",
+            "expires": "2023-04-01T10:43:29.221Z",
+            "domain": "github.com",
             "path": "/",
+            "secure": true,
+            "httpOnly": true,
             "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.357Z",
-            "lastAccessed": "2023-03-24T12:54:22.357Z"
-          },
-          {
-            "key": "amplitude_idundefinedtickertape.in",
-            "value": "eyJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==",
-            "expires": "2023-03-24T13:44:22.335Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.358Z",
-            "lastAccessed": "2023-03-24T12:54:22.358Z"
-          },
-          {
-            "key": "__gads",
-            "value": "ID=34ea524916db8732-225215eb97dc001a:T=1679662460:RT=1679662460:S=ALNI_Ma47ufwdych8GgAONKnugpKs2vGjg",
-            "expires": "2024-04-17T12:54:20.000Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.359Z",
-            "lastAccessed": "2023-03-24T12:54:22.359Z"
-          },
-          {
-            "key": "ch-tt-auth",
-            "value": "1298e9ac4899809eaf8d673e07de85a6ac5b54864c8b65159e5f623f6e29527b",
-            "expires": "2023-03-24T13:54:19.000Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.360Z",
-            "lastAccessed": "2023-03-24T12:54:22.360Z"
-          },
-          {
-            "key": "_ga",
-            "value": "GA1.2.1703569634.1679662460",
-            "expires": "2024-04-27T12:54:21.232Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.361Z",
-            "lastAccessed": "2023-03-24T12:54:22.361Z"
-          },
-          {
-            "key": "_ga_05HDC1G6P2",
-            "value": "GS1.1.1679662459.1.1.1679662459.60.0.0",
-            "expires": "2024-04-27T12:54:19.643Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.362Z",
-            "lastAccessed": "2023-03-24T12:54:22.362Z"
-          },
-          {
-            "key": "x-lp-auth",
-            "value": "49ae96dd9126bc25ce4520c53ad222a3854dccd9fe7aaed3c544c2eda0bd0293",
-            "expires": "2023-03-24T20:54:19.000Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.363Z",
-            "lastAccessed": "2023-03-24T12:54:22.363Z"
-          },
-          {
-            "key": "x-lp-tk",
-            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRJbiI6ZmFsc2UsImlhdCI6MTY3OTY2MjQ1OCwiZXhwIjoxNjc5NjkxMjU4fQ.xtZl_lfWWwr1Pu8XuqgDK1d5h8Ud-atSc9NctVWifUQ",
-            "expires": "2023-03-24T20:54:18.000Z",
-            "domain": "tickertape.in",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2023-03-24T12:54:22.364Z",
-            "lastAccessed": "2023-03-24T12:54:22.364Z"
+            "creation": "2023-04-01T09:53:29.252Z",
+            "lastAccessed": "2023-04-01T09:53:29.252Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2023-03-24T13:44:15.305Z",
-      "createdAt": "2023-03-24T12:54:15.305Z",
+      "expiresAt": "2023-04-01T10:43:26.105Z",
+      "createdAt": "2023-04-01T09:53:26.105Z",
       "usageCount": 2,
       "maxUsageCount": 50,
       "errorScore": 0

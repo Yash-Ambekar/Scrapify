@@ -38,11 +38,42 @@ button{
     justify-content: center;
     padding: 0.5em;
     text-decoration: none;
-    border: none;
     margin:1em;
     color: white;
 }
 
 .preview-div{
     width: 100%;
+}
+
+#previewFrame{
+    background: none !important;
+    background-color: none !important;
+    width: 80%;
+    height: 100vh;
+}
+
+.previewDiv{
+    display:flex;
+}
+
+.attribute{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-weight: 600;
+    padding: 0.5em;
+    overflow-x: hidden;
+    margin: 0 0.5em 0 0.5em;
+    text-align: center;
+    color: azure;
+    font-size: medium;
+}
+
+.elementSelection{
+    width: 20%;
 }

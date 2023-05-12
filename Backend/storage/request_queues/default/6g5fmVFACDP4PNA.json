@@ -1,9 +1,0 @@
-{
-	"id": "6g5fmVFACDP4PNA",
-	"json": "{\"id\":\"6g5fmVFACDP4PNA\",\"url\":\"https://www.tickertape.in/pricing?ref=watchlist-forecast_pricing-banner\",\"uniqueKey\":\"https://www.tickertape.in/pricing?ref=watchlist-forecast_pricing-banner\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462665,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/pricing?ref=watchlist-forecast_pricing-banner",
-	"url": "https://www.tickertape.in/pricing?ref=watchlist-forecast_pricing-banner"
-}

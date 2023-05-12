@@ -1,9 +1,0 @@
-{
-	"id": "BPIuCp0wcoMIzzn",
-	"json": "{\"id\":\"BPIuCp0wcoMIzzn\",\"url\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN?ref=stock-overview_int-asset-widget\",\"loadedUrl\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN?ref=stock-overview_int-asset-widget\",\"uniqueKey\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN?ref=stock-overview_int-asset-widget\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-03-24T12:54:22.762Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks/bajaj-finance-BJFN?ref=stock-overview_int-asset-widget",
-	"url": "https://www.tickertape.in/stocks/bajaj-finance-BJFN?ref=stock-overview_int-asset-widget"
-}

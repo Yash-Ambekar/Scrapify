@@ -1,9 +1,0 @@
-{
-	"id": "VK5Ms0NMO7Qoktz",
-	"json": "{\"id\":\"VK5Ms0NMO7Qoktz\",\"url\":\"https://www.tickertape.in/stocks\",\"uniqueKey\":\"https://www.tickertape.in/stocks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462715,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks",
-	"url": "https://www.tickertape.in/stocks"
-}

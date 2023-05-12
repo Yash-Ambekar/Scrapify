@@ -1,9 +1,0 @@
-{
-	"id": "lvYBITLetaGic7M",
-	"json": "{\"id\":\"lvYBITLetaGic7M\",\"url\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/forecasts?checklist=basic&section=price\",\"uniqueKey\":\"https://www.tickertape.in/stocks/bajaj-finance-BJFN/forecasts?checklist=basic&section=price\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462643,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/forecasts?checklist=basic&section=price",
-	"url": "https://www.tickertape.in/stocks/bajaj-finance-BJFN/forecasts?checklist=basic&section=price"
-}

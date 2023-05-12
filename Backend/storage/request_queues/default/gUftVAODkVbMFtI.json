@@ -1,9 +1,0 @@
-{
-	"id": "gUftVAODkVbMFtI",
-	"json": "{\"id\":\"gUftVAODkVbMFtI\",\"url\":\"https://www.tickertape.in/meta/cancellation\",\"uniqueKey\":\"https://www.tickertape.in/meta/cancellation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462748,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/meta/cancellation",
-	"url": "https://www.tickertape.in/meta/cancellation"
-}

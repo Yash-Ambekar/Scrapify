@@ -1,9 +1,0 @@
-{
-	"id": "2JFSeBQvM6wX4om",
-	"json": "{\"id\":\"2JFSeBQvM6wX4om\",\"url\":\"https://www.tickertape.in/stockdeals\",\"uniqueKey\":\"https://www.tickertape.in/stockdeals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1679662462736,
-	"retryCount": 0,
-	"uniqueKey": "https://www.tickertape.in/stockdeals",
-	"url": "https://www.tickertape.in/stockdeals"
-}
